@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# env secrets
+.env
+
+# macOS junk
+.DS_Store
+._*
